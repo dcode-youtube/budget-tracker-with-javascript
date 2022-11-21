@@ -13,6 +13,7 @@ export default class BudgetTracker {
 
     static html() {
         return `
+      
             <table class="budget-tracker">
                 <thead>
                     <tr>
